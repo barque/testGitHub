@@ -6,3 +6,4 @@ new line 3
 new line 4
 new line 5
 new line 7 by test
+new line 6 by test 1
